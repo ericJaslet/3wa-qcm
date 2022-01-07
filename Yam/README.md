@@ -14,3 +14,15 @@ lancé la commande:
 ```bash
 php index.php
 ```
+
+## Génére la documentation du jeux
+Ce rendre dans le dossier Yam.
+
+```bash
+php phpDocumentor.phar -d . -t docs/api
+```
+
+Voir la documentation.
+```bash
+php -S localhost:8000 -t ./docs/api/
+```
