@@ -1,4 +1,5 @@
 # Yam
+Lance un lancé de 5 dés 100 fois et affiche les résultats
 
 ## Installation
 Copier les fichiers.
